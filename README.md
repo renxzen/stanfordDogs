@@ -2,9 +2,8 @@
 
 Mid-semester project for Data Mining at Universidad Peruana de Ciencias Aplicadas. Transfer learning technique.
 
-# Networks used:
-- Renzo Damián: VGG16
-- Renzo Mondragón: InceptionV3
+# Models used:
+- InceptionV3
 
 # Previews:
 
